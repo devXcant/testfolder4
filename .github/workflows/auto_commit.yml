@@ -20,8 +20,8 @@ jobs:
 
     - name: Commit Changes
       run: |
-        git config --local user.email "ifeanyinneji777@gmail.com"
-        git config --local user.name "Nneji123"
+        git config --local user.email "devxcant@gmail.com"
+        git config --local user.name "devXcant"
         git add .
         git commit -am "Auto commit at $(date)"
       
